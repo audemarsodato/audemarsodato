@@ -3,5 +3,4 @@
 - I like creating web based productivity tools.
 - I create projects using React, NodeJs and Express, and MongoDB
 - Yes its MERN
-- I don't like Java but I will if you ask me to help you
-- Don't ask me about python, I know it but I dont use it
+- No Java and Python pls, tired of it
