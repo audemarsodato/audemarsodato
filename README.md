@@ -32,14 +32,14 @@ I'm an upcoming 3rd-year Information Technology student with a passion for build
 
 A full-stack task management application built with the MERN stack that helps users prioritize tasks using the Eisenhower Matrix.
 
-- [Live Demo](https://eisenplan.netlify.app/)
-- [Repository](https://github.com/audemarsodato/tasks)
+- [https://eisenplan.netlify.app/](https://eisenplan.netlify.app/)
+- [Repository](https://github.com/audemarsodato/eisenplan)
 
 ### 🍳 Ulalam
 
 A recipe management application that helps answer "Ano kaya ang lulutuin kong ulam?" by recommending recipes based on available ingredients.
 
-- [Live Demo](https://ulalam-vanilla-js.netlify.app/)
+- [https://ulalam-vanilla-js.netlify.app/](https://ulalam-vanilla-js.netlify.app/)
 - [Repository](https://github.com/audemarsodato/ulalam-vanilla-js)
 
 ## 🌱 Currently Learning
