@@ -32,7 +32,7 @@ I'm an upcoming 3rd-year Information Technology student with a passion for build
 
 A full-stack task management application built with the MERN stack that helps users prioritize tasks using the Eisenhower Matrix.
 
-- [Live Demo](https://tasks-today-time-management.netlify.app/)
+- [Live Demo](https://eisenplan.netlify.app/)
 - [Repository](https://github.com/audemarsodato/tasks)
 
 ### 🍳 Ulalam
