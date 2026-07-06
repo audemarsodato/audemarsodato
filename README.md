@@ -9,8 +9,7 @@ I'm an upcoming 3rd-year Information Technology student with a passion for build
 ## 💻 Tech Stack
 ### Frontend
 - React
-- React Router
-- JavaScript ES6+
+- JavaScript (ES6+)
 - CSS3
 - HTML5
 
