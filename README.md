@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Audemars
 
-I'm an upcoming 3rd-year Information Technology student with a passion for building practical web applications. I enjoy writing code, software engineering, and turning ideas into projects by learning through building.
+I'm a 3rd-year Information Technology student with passion for building practical web applications. I enjoy writing code, software engineering, and turning ideas into projects by learning through building.
 
 **Focus:** JavaScript • React • Node.js • Express • MongoDB
 
