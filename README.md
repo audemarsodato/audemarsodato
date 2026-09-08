@@ -48,6 +48,11 @@ A recipe management application that helps answer "Ano kaya ang lulutuin kong ul
 - [https://ulalam-vanilla-js.netlify.app/](https://ulalam-vanilla-js.netlify.app/)
 - [Repository](https://github.com/audemarsodato/ulalam-vanilla-js)
 
+## 🔭 What I'm Working On
+
+### 🍳 Ulalam
+Building a full-stack recipe/social cooking application using the MERN stack.
+
 ## 🌱 Currently Learning
 - Writing cleaner and more maintainable code
 - Building scalable MERN applications
@@ -55,6 +60,8 @@ A recipe management application that helps answer "Ano kaya ang lulutuin kong ul
 - Best practices in web development
 
 ![Snake animation](https://github.com/audemarsodato/audemarsodato/blob/gh-pages/github-contribution-grid-snake.svg)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=audemarsodato&layout=compact)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/audemars-odato-a8b1a32b5/)
