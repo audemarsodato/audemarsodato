@@ -47,6 +47,8 @@ A recipe management application that helps answer "Ano kaya ang lulutuin kong ul
 - Improving UI/UX design
 - Best practices in web development
 
+![Snake animation](https://github.com/audemarsodato/audemarsodato/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/audemars-odato-a8b1a32b5/)
 - [Portfolio](https://audemars-odato.netlify.app/)
