@@ -8,6 +8,8 @@ I'm a 3rd-year Information Technology student with passion for building practica
 
 🚀 Currently looking for a voluntary student internship in Web Development (Remote, Hybrid, or On-site) where I can contribute, learn from experienced developers, and continue improving my skills.
 
+![Audemars' GitHub stats](https://github-readme-stats.vercel.app/api?username=audemarsodato&show_icons=true)
+
 ## 💻 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github" />
