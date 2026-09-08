@@ -7,6 +7,9 @@ I'm a 3rd-year Information Technology student with passion for building practica
 🚀 Currently looking for a voluntary student internship in Web Development (Remote, Hybrid, or On-site) where I can contribute, learn from experienced developers, and continue improving my skills.
 
 ## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github" />
+
 ### Frontend
 - React
 - JavaScript (ES6+)
