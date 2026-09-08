@@ -8,8 +8,6 @@ I'm a 3rd-year Information Technology student with passion for building practica
 
 🚀 Currently looking for a voluntary student internship in Web Development (Remote, Hybrid, or On-site) where I can contribute, learn from experienced developers, and continue improving my skills.
 
-![Audemars' GitHub stats](https://github-readme-stats.vercel.app/api?username=audemarsodato&show_icons=true)
-
 ## 💻 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github" />
@@ -60,8 +58,6 @@ Building a full-stack recipe/social cooking application using the MERN stack.
 - Best practices in web development
 
 ![Snake animation](https://github.com/audemarsodato/audemarsodato/blob/gh-pages/github-contribution-grid-snake.svg)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=audemarsodato&layout=compact)
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/audemars-odato-a8b1a32b5/)
