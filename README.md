@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Audemars
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;Building+through+projects;Always+learning+something+new)](https://git.io/typing-svg)
+
 I'm a 3rd-year Information Technology student with passion for building practical web applications. I enjoy writing code, software engineering, and turning ideas into projects by learning through building.
 
 **Focus:** JavaScript • React • Node.js • Express • MongoDB
