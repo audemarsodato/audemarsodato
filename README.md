@@ -119,7 +119,7 @@ AO16122023MPHL050409M18082023&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt
 </strong>
 </pre>
 
-## 🎫 Boarding Passes
+## 🎫 Boarding Passes... Check✅
 <pre align=center>
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │      🪽Ulalam pacific                                                       │
@@ -158,11 +158,10 @@ AO16122023MPHL050409M18082023&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt
 │     Status: 🎟️Booked                                                        │
 └─────────────────────────────────────────────────────────────────────────────┘
 </pre>
-
+## 🗺️Let's review our trips itinerary!
 <pre>
 🗺️ <strong>ITINERARY</strong>
 <hr>
-
 <strong>DAY 01 — JUN 2023</strong>
 📍 <strong>MANILA</strong>
 
@@ -205,8 +204,10 @@ AO16122023MPHL050409M18082023&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt
 
 → Building products, deepening my skills,
   and continuing the journey
-
 </pre>
+
+### All goods? Then... Let's goooo!
+### ...
 
 <pre>
 <pre>
