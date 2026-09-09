@@ -123,10 +123,10 @@ AO16122023MPHL050409M18082023&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt
 <pre align=center>
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │      🪽Ulalam pacific                                                       │
-│    <small>Passenger name</small>                <small>Flight No.                  Seat</small>                   │
+│    <small>Passenger name</small>        <small>Flight No.                  Seat</small>                   │
 │     ODATO/AUDEMARS             5UL 142                <a href="https://ulalam-vanilla-js.netlify.app/">29F</a>                    │
-│                                <small>09 JUN 2026</small>              <small>Boarding Group</small>           │
-│     <strong>MNL ✈ HKG</strong>                <small><small>Be at boarding gate before</small></small>       <strong>4</strong>                     │
+│                              <small>09 JUN 2026</small>              <small>Boarding Group</small>         │
+│     <strong>MNL ✈ HKG</strong>             <small><small>Be at boarding gate before</small></small>       <strong>4</strong>                  │
 │                                0945H<small>(09:45am)</small>            <small>Gate</small>                  │
 │                                                        <a href="https://github.com/audemarsodato/ulalam-vanilla-js">103</a>                   │
 │     Status: ✈️In Flight                                                     │
