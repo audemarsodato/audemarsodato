@@ -138,7 +138,7 @@ AO16122023MPHL050409M18082023&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt
 │--Air EisenPlan----------------------------------------------│
 │  <small>Passenger name</small>                          <small>Flight No.</small>         │
 │   ODATO/AUDEMARS                           EP1 93           │
-│  <small>FROM</small>                                   <small>FLIGHT   TIME   SEAT</small>    │
+│  <small>FROM</small>                               <small>FLIGHT   TIME   SEAT</small>    │
 │    Manila                             7May26  1615   <a href="https://eisenplan.netlify.app/">11B</a>    │
 │  <small>TO</small>                                          GATE    ZONE   │
 │    Macau                                     <a href="https://github.com/audemarsodato/eisenplan">103      1</a>     │
