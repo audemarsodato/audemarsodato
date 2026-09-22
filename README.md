@@ -148,7 +148,7 @@ AO16122023MPHL050409M18082023&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt
 </pre>
 <pre align=right>
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│   🛩️Social Graph airlines                                                   │
+│   🛩️TransManila airlines                                                   │
 │    <small>Passenger name</small>            <small>Flight No.                  Seat</small>                   │
 │     ODATO/AUDEMARS             4SG 861                <a href="">???</a>                    │
 │                                <small>0? ??? ????</small>              <small>Boarding Group</small>           │
