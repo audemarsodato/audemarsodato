@@ -6,7 +6,7 @@ I'm a 3rd-year Information Technology student with passion for building practica
 
 **Focus: JavaScript • React • Node.js • Express • MongoDB**
 
-🚀 Currently looking for a voluntary student internship in Web Development (Remote, Hybrid, or On-site) where I can contribute, learn from experienced developers, and continue improving my skills.
+🚀 Currently looking for a voluntary student internship in Web Development (Remote or Hybrid) where I can contribute, learn from experienced developers, and continue improving my skills.
 
 ## 💻 Tech Stack
 
