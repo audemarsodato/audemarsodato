@@ -47,8 +47,8 @@ A Social recipe management application helping house cooks answer "Ano kaya lulu
 
 ## 🔭 What I'm Working On
 
-### 🍳 Ulalam
-Building a full-stack recipe/social cooking application using the MERN stack.
+### ✅ Testing and Quality Assurance
+Practicing and learning how to write unit tests using Vitest and Jest.
 
 ## 🌱 Currently Learning
 - Writing cleaner and more maintainable code
